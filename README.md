@@ -1,1 +1,1 @@
-# SQL_analytics-EDA-_project
+# SQL_analytics_EDA_project
